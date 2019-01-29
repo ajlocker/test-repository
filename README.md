@@ -10,3 +10,9 @@ I can use a simple text formatting to make **bold** or *italic* texts
 ### Now I'm using a level 3 heading
 
 #### what does level 4 look like?
+
+Now I'm making edits in a different branch
+
+**Make some bold text** followed by some *italic texts* 
+
+# Then use a big header...
