@@ -7,7 +7,7 @@ I can use a simple text formatting to make **bold** or *italic* texts
 
 ***woah*** this is **bold** and *italic* 
 
-### Now I'm using a level 
+### Now I'm using a level 3 header
 
 #### what does level 4 look like?
 
@@ -21,3 +21,12 @@ Now I'm making edits in a different branch
 
 I've changed my readme on my local computer. what. is. up?
 
+**bold letters** *italic letters* 
+
+>I don't know what this stuff does< 
+
+### more changes
+
+## and more
+
+# AND MORE! 
